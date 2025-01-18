@@ -13,8 +13,28 @@ searchPharmacyMenu() {
     String userMedName = stdin.readLineSync() ?? 'N/A';
     // available medicines in the state
     Map<String, dynamic> statePharmacyData = {
-      "Texas": {
-        "Panadol": ["Vons Pharmacy", "Save Mart Pharmacy"],
+      "texas": {
+        "panadol": ["Vons Pharmacy", "Save Mart Pharmacy"],
+      },
+      "california": {
+        "atorvastatin": ["Safeway", "Pavilions Pharmacy", "Lucky Pharmacy"],
+      },
+      "arizona": {
+        "omeprazole": [
+          "Bashas' Pharmacy",
+          "Fry's Food and Drug",
+          "Lucky Pharmacy"
+        ],
+      },
+      "alabama": {
+        "metoprolol": ["Walgreens", "CVS Pharmacy", "Rite Aid"],
+      },
+      "flordia": {
+        "atorvastatin": [
+          "Wegmans Food Markets",
+          "Kinney Drugs",
+          "Price Chopper Pharmacy"
+        ],
       },
     };
 

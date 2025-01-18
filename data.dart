@@ -1,12 +1,5 @@
 
-  //   "California": {
-  //     "Atorvastatin": [
-  //       "Safeway",
-  //       "Pavilions Pharmacy",
-  //       "Vons Pharmacy",
-  //       "Save Mart Pharmacy",
-  //       "Lucky Pharmacy"
-  //     ],
+
   //     "Metformin": [
   //       "Safeway",
   //       "Pavilions Pharmacy",

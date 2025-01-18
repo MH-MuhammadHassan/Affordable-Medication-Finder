@@ -12,7 +12,7 @@ void mainMenu() {
   while (running) {
     print("\n⚡ Welcome to Affordable Medication Finder! ⚡ \n");
     print(
-        "▶ Please select an option: \n1. Search Pharmacy \n2. Register Pharmacy \n3. Exit \n");
+        "▶ Please select an option: \n1. Search Pharmacy \n2. Pharmacy Owner \n3. Exit \n");
     stdout.write("Enter Your Choice (1/2/3): ");
 
     String userInput =
@@ -30,12 +30,12 @@ void mainMenu() {
         searchPharmacyMenu(); // Call the search pharmacy menu
         break;
       case 2:
-        pharmacyRegisteration(); // Call the pharmacy registration menu
+        pharmacyRegMenu(); // Call the pharmacy registration menu
         break;
       case 3:
         print(
             "\n👋 Thank you for using Affordable Medication Finder! Goodbye!\n");
-             exit(0);
+             exit(0); // Instant Exit
         // running = false; // Exit the program
         // break;
       default:
