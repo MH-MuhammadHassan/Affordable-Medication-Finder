@@ -35,9 +35,9 @@ void mainMenu() {
       case 3:
         print(
             "\n👋 Thank you for using Affordable Medication Finder! Goodbye!\n");
-             exit(0); // Instant Exit
-        // running = false; // Exit the program
-        // break;
+        exit(0); // Instant Exit
+      // running = false; // Exit the program
+      // break;
       default:
         print("\n❌ Invalid choice! Please enter a number between 1 and 3.\n");
         break; // Invalid choice; prompt again
