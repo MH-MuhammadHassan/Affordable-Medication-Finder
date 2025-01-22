@@ -58,3 +58,8 @@ Affordable Medication Finder is a Dart-based console application designed to bri
 3. Run the following command to execute the application:
    ```bash
    dart main.dart
+
+### Future Enhancements
+ - Add a database or file system to persist user and pharmacy data.
+ - Implement a GUI (Graphical User Interface) for a more interactive user experience.
+ - Enable location-based pharmacy searches using real-world data.
