@@ -1,0 +1,84 @@
+{
+  "Alabama": ["CVS Health – Woonsocket, Rhode Island"],
+  "Arizona": ["Bashas' Pharmacy – Chandler, Arizona", "Fry's Food and Drug – Tolleson, Arizona"],
+  "Arkansas": ["Walmart – Bentonville, Arkansas", "Sam's Club – Bentonville, Arkansas"],
+  "California": [
+    "Safeway – Pleasanton, California", 
+    "Pavilions Pharmacy – Arcadia, California", 
+    "Vons Pharmacy – Arcadia, California", 
+    "Save Mart Pharmacy – Modesto, California", 
+    "Lucky Pharmacy – Modesto, California", 
+    "Raley's Pharmacy – West Sacramento, California", 
+    "Stater Bros. Pharmacy – San Bernardino, California"
+  ],
+  "Colorado": ["King Soopers – Denver, Colorado"],
+  "Florida": [
+    "Publix Pharmacies – Lakeland, Florida", 
+    "Winn-Dixie Pharmacy – Jacksonville, Florida"
+  ],
+  "Georgia": ["Cerberus Capital Management – New York, New York"],
+  "Idaho": ["Albertsons Companies – Boise, Idaho", "Albertsons Market Pharmacy – Boise, Idaho"],
+  "Illinois": [
+    "Walgreens – Deerfield, Illinois", 
+    "Sears Holdings Corp. – Hoffman Estates, Illinois", 
+    "Kmart Pharmacy – Hoffman Estates, Illinois", 
+    "Jewel-Osco Pharmacy – Itasca, Illinois"
+  ],
+  "Iowa": ["Hy-Vee – West Des Moines, Iowa"],
+  "Kansas": ["Dillons Pharmacy – Hutchinson, Kansas"],
+  "Louisiana": ["Giant Eagle – Pittsburgh, Pennsylvania"],
+  "Maine": ["Hannaford Pharmacy – Scarborough, Maine"],
+  "Maryland": ["Giant Food Pharmacy – Landover, Maryland"],
+  "Massachusetts": [
+    "Shaw's Pharmacy – West Bridgewater, Massachusetts", 
+    "Star Market Pharmacy – West Bridgewater, Massachusetts", 
+    "Stop & Shop Pharmacy – Quincy, Massachusetts"
+  ],
+  "Michigan": ["Meijer – Grand Rapids, Michigan"],
+  "Minnesota": ["Target (CVS Pharmacy) – Minneapolis, Minnesota"],
+  "Missouri": ["Gerbes Pharmacy – Jefferson City, Missouri"],
+  "Nebraska": ["Baker's Pharmacy – Omaha, Nebraska"],
+  "Nevada": ["Mariano's Pharmacy – Milwaukee, Wisconsin"],
+  "New Jersey": ["ShopRite Pharmacy – Keasbey, New Jersey"],
+  "New York": [
+    "Rite Aid Corp. – Camp Hill, Pennsylvania", 
+    "Wegmans Food Markets – Rochester, New York", 
+    "Kinney Drugs – Gouverneur, New York", 
+    "Price Chopper Pharmacy – Schenectady, New York"
+  ],
+  "North Carolina": [
+    "Harris Teeter Pharmacy – Matthews, North Carolina", 
+    "Food Lion Pharmacy – Salisbury, North Carolina", 
+    "Ingles Pharmacy – Black Mountain, North Carolina"
+  ],
+  "Ohio": [
+    "Kroger – Cincinnati, Ohio", 
+    "Discount Drug Mart – Medina, Ohio"
+  ],
+  "Oregon": ["Fred Meyer – Portland, Oregon"],
+  "Pennsylvania": [
+    "Rite Aid Corp. – Camp Hill, Pennsylvania", 
+    "Giant Eagle – Pittsburgh, Pennsylvania", 
+    "Acme Markets Pharmacy – Malvern, Pennsylvania", 
+    "Weis Markets Pharmacy – Sunbury, Pennsylvania"
+  ],
+  "Rhode Island": ["CVS Health – Woonsocket, Rhode Island"],
+  "South Carolina": ["Wegmans Food Markets – Rochester, New York"],
+  "Texas": [
+    "H-E-B Grocery Company – San Antonio, Texas", 
+    "Randalls Pharmacy – Houston, Texas", 
+    "Tom Thumb Pharmacy – Roanoke, Texas", 
+    "Brookshire's Pharmacy – Tyler, Texas", 
+    "Super 1 Foods Pharmacy – Tyler, Texas", 
+    "United Supermarkets Pharmacy – Lubbock, Texas", 
+    "Market Street Pharmacy – Lubbock, Texas"
+  ],
+  "Utah": ["Smith's Food and Drug – Salt Lake City, Utah"],
+  "Virginia": ["Food City Pharmacy – Abingdon, Virginia"],
+  "Washington": [
+    "Costco Pharmacies – Issaquah, Washington", 
+    "Bartell Drugs – Seattle, Washington", 
+    "QFC Pharmacy – Bellevue, Washington"
+  ],
+  "West Virginia": ["Cerberus Capital Management – New York, New York"]
+}

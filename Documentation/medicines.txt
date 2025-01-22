@@ -1,0 +1,102 @@
+
+<<<<<<<<<<<<<<<<<<<<<<< MEDICINES >>>>>>>>>>>>>>>>.
+Atorvastatin – Lowers cholesterol.
+Levothyroxine – Treats hypothyroidism.
+Metformin – Manages type 2 diabetes.
+Lisinopril – Treats high blood pressure and heart failure.
+Amlodipine – Manages high blood pressure and angina.
+Metoprolol – Treats high blood pressure and angina.
+Albuterol – Relieves bronchospasm in conditions like asthma.
+Omeprazole – Reduces stomach acid, treating GERD.
+Losartan – Treats high blood pressure.
+Gabapentin – Manages nerve pain and seizures.
+Sertraline – Treats depression and anxiety disorders.
+Hydrochlorothiazide – Diuretic for high blood pressure.
+Montelukast – Manages allergies and asthma.
+Fluticasone – Steroid for allergies and asthma.
+Amoxicillin – Antibiotic for bacterial infections.
+Pantoprazole – Reduces stomach acid, treating GERD.
+Escitalopram – Treats depression and anxiety.
+Fluoxetine – Treats depression and OCD.
+Prednisone – Steroid for inflammation.
+Tamsulosin – Treats enlarged prostate.
+Bupropion – Treats depression and aids smoking cessation.
+Pravastatin – Lowers cholesterol.
+Acetaminophen/Hydrocodone – Pain relief.
+Furosemide – Diuretic for edema and high blood pressure.
+Rosuvastatin – Lowers cholesterol.
+Citalopram – Treats depression.
+Insulin Glargine – Long-acting insulin for diabetes.
+Clopidogrel – Prevents blood clots.
+Meloxicam – Anti-inflammatory for arthritis.
+Propranolol – Treats high blood pressure and anxiety.
+Duloxetine – Treats depression and nerve pain.
+Azithromycin – Antibiotic for bacterial infections.
+Ranitidine – Reduces stomach acid.
+Venlafaxine – Treats depression and anxiety.
+Allopurinol – Treats gout.
+Warfarin – Anticoagulant to prevent blood clots.
+Oxycodone – Pain relief.
+Zolpidem – Treats insomnia.
+Ethinyl Estradiol/Norgestimate – Birth control.
+Lorazepam – Treats anxiety.
+Estradiol – Hormone replacement therapy.
+Quetiapine – Treats bipolar disorder and schizophrenia.
+Ergocalciferol – Vitamin D supplement.
+Glimepiride – Manages type 2 diabetes.
+Fluconazole – Antifungal medication.
+Rivastigmine – Treats dementia.
+Doxycycline – Antibiotic for bacterial infections.
+Simvastatin – Lowers cholesterol.
+Metronidazole – Antibiotic for bacterial and protozoal infections.
+Triamterene/Hydrochlorothiazide – Diuretic for high blood pressure.
+Spironolactone – Diuretic for heart failure and high blood pressure.
+Fenofibrate – Lowers cholesterol and triglycerides.
+Sulfamethoxazole/Trimethoprim – Antibiotic for bacterial infections.
+Lovastatin – Lowers cholesterol.
+Carvedilol – Treats high blood pressure and heart failure.
+Clonazepam – Treats seizures and panic disorders.
+Atenolol – Treats high blood pressure and angina.
+Cyclobenzaprine – Muscle relaxant.
+Cephalexin – Antibiotic for bacterial infections.
+Trazodone – Treats depression and insomnia.
+Alendronate – Treats and prevents osteoporosis.
+Clonidine – Manages high blood pressure.
+Loratadine – Relieves allergies.
+Hydralazine – Treats high blood pressure.
+Enalapril – Treats high blood pressure and heart failure.
+Diazepam – Treats anxiety and seizures.
+Buspirone – Manages anxiety disorders.
+Paroxetine – Treats depression and anxiety.
+Diclofenac – Anti-inflammatory for arthritis and pain.
+Pioglitazone – Manages type 2 diabetes.
+Famotidine – Reduces stomach acid, treating GERD.
+Nitroglycerin – Relieves chest pain (angina).
+Diltiazem – Treats high blood pressure and angina.
+Lansoprazole – Reduces stomach acid, treating GERD.
+Finasteride – Treats enlarged prostate and hair loss.
+Valsartan – Treats high blood pressure and heart failure.
+Eszopiclone – Treats insomnia.
+Levofloxacin – Antibiotic for bacterial infections.
+Morphine – Pain relief.
+Insulin Aspart – Rapid-acting insulin for diabetes.
+Risperidone – Treats schizophrenia and bipolar disorder.
+Liraglutide – Manages type 2 diabetes and weight loss.
+Ezetimibe – Lowers cholesterol.
+Topiramate – Treats seizures and migraines.
+Hydroxyzine – Treats anxiety and allergies.
+Ipratropium – Relieves breathing issues in COPD.
+Cefdinir – Antibiotic for bacterial infections.
+Baclofen – Muscle relaxant for spasms.
+Phentermine – Aids weight loss.
+Oseltamivir – Treats influenza.
+Acyclovir – Antiviral for herpes infections.
+Mirtazapine – Treats depression.
+Ondansetron – Prevents nausea and vomiting.
+Insulin Lispro – Rapid-acting insulin for diabetes.
+Meclizine – Treats motion sickness and vertigo.
+Terazosin – Treats enlarged prostate and high blood pressure.
+Prochlorperazine – Treats nausea and psychotic disorders.
+Methocarbamol – Muscle relaxant.
+Tiotropium – Treats COPD and asthma.
+Insulin Detemir – Long-acting insulin for diabetes.
