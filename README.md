@@ -66,3 +66,7 @@ Affordable Medication Finder is a Dart-based console application designed to bri
 
 
 ### Let me know if you'd like to modify or add anything!
+
+## Contributions
+
+Contributions are welcome! If you have additional examples or improvements, feel free to fork this repository and create a pull request.
